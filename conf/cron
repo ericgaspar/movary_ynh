@@ -1,1 +1,1 @@
-* * * * * usr/local/bin/php __INSTALL_DIR__/bin/console.php jobs:process
+* * * * * __APP__ /usr/bin/php__PHP_VERSION__ __INSTALL_DIR__/bin/console.php jobs:process
